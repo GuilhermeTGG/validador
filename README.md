@@ -16,4 +16,4 @@ Aprimorar meus conhecimentos, desenvolvendo um validador de formulário simples 
   
    <h2>Link</h2>
  <ul>
-   <li>https://guilhermetgg.github.io/slider/</li>
+   <li>https://guilhermetgg.github.io/validador/</li>
