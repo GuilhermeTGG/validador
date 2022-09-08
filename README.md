@@ -7,6 +7,7 @@ Aprimorar meus conhecimentos, desenvolvendo um validador de formulário simples 
  <ul>
   <li>Preencha o formulário de acordo com os campos em aberto.</li>
    <li>Clique em cadastrar para finalizar.</li>
+   <li>A validação é feita em Html(front) e em JavaScript(back).</li>
  
    <h2>Tecnologias usadas</h2>
  <ul>
